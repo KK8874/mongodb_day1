@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      h1 {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <table border="3">
+      <tr>
+        <h1><u>Resume</u></h1>
+
+        <td colspan="2"><h2>Krishnakant Dubey</h2></td>
+        <td align="right" width="100">
+          <img
+            src="Krishnakant.jpg"
+            alt="Krishnakant image"
+            height="100"
+            width="100"
+          />
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="2">Contact: +91_8874041283</td>
+      </tr>
+      <tr>
+        <td>Email:Krishnakant682000@gmail.com</td>
+      </tr>
+
+      <tr>
+        <td colspan="2">
+          Linkedin:<a href="https://www.linkedin.com/in/krishnakantdubey682000/"
+            >Linkedin Id</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          Github: <a href="https://github.com/KK8874/">Github Link</a>
+        </td>
+      </tr>
+    </table>
+
+    <hr />
+    <table border="2">
+      <tr>
+        <td>
+          <p>
+            To work for a professionally managed company with a good
+            organizational objective & friendly environment, in a capacity that
+            offers responsibility, challenge, job satisfaction and scope for
+            organizational and personal, development and growth.
+          </p>
+        </td>
+      </tr>
+    </table>
+    <hr />
+    <h2><u>Experince</u></h2>
+    <hr />
+    <table border="1">
+      <tr>
+        <td style="width: 150%">Infinite Computer Salution noida</td>
+        <td style="width: 150%">Jun-2022 Present</td>
+      </tr>
+      <tr>
+        <td>Associate Software Engineer</td>
+      </tr>
+    </table>
+
+    <hr />
+    <ul>
+      <li>
+        Demonstrated expertise in MERN stack web development, utilizing MongoDB,
+        Express.js, React.js, and Node.js to build robust and responsive web
+        applications with seamless user experiences.
+      </li>
+      <li>
+        Spearheaded Informatica PowerCenter projects, leveraging ETL expertise
+        and extraction tools to efficientlymanage and integrate large-scale
+        datasets across diverse systems.
+      </li>
+      <li>
+        Designed and implemented robust data warehousing and data lake
+        solutions, enabling scalable storage, processing, and analytics for big
+        data environments, while ensuring data integrity and security
+      </li>
+    </ul>
+    <hr />
+    <h2><u>Internship</u></h2>
+    <hr />
+    <table border="1">
+      <tr>
+        <td style="width: 100%">Smart Data Enterprises</td>
+        <td style="width: 100%">Jan- 2022 -- May- 2022</td>
+      </tr>
+      <tr>
+        <td>Associate Training</td>
+      </tr>
+    </table>
+    <hr />
+    <ul>
+      <li>
+        Developed a doctor appointment application using the MERN stack,
+        collaborating with the product team to translate requirements into
+        technical solutions.
+      </li>
+      <li>
+        Designed and implemented a user-friendly interface with React.js,
+        integrated MongoDB for data storage, and built RESTful APIs with
+        Express.js and Node.js for seamless appointment scheduling and
+        management.
+      </li>
+      <li>
+        Ensured data securitythrough user authentication and authorization
+        features, implemented real-time functionalities using WebSocket or
+        Socket.io, conducted thorough testing, and optimized performance for a
+        reliable and efficient application.
+      </li>
+    </ul>
+    <hr />
+    <h2><u>Projects</u></h2>
+    <hr />
+    <h4>Insurance-Management-System</h4>
+    <ul>
+      <li>
+        A comprehensive web app that helps user compare and purchase different
+        insurance options across domainslike life and health with options to
+        manage policies, claims and personal data. Tech Used: HTML5, CSS3,
+        Bootstrap, React.js, Express.js, Node.js, MongoDB
+      </li>
+    </ul>
+    <h4>Banking Management System</h4>
+    <ul>
+      <li>
+        Banking-Management A full fledged web app that simulates the working of
+        a complete banking system. Users can open accounts, make
+        deposits,withdrawals and view thorough balance sheets on a fluid and
+        easy-to-use UI. Tech Used: HTML5, CSS3, React.js, NodeJS, Express.js,
+        MongoDB
+      </li>
+    </ul>
+    <hr />
+    <h3><u>Education</u></h3>
+
+    <table border="1">
+      <tr>
+        <th>University Name</th>
+        <th>Curse</th>
+        <th>Branch</th>
+        <th>%</th>
+      </tr>
+      <tr>
+        <td>AKTU university Lucknow</td>
+        <td>B.tech</td>
+        <td>Information Technology</td>
+        <td>85</td>
+      </tr>
+      <tr>
+        <td>State Board</td>
+        <td>12<sup>th</sup></td>
+        <td>PCM</td>
+        <td>82</td>
+      </tr>
+      <tr>
+        <td>Sate Board</td>
+        <td>10<sup>th</sup></td>
+        <td>Science</td>
+        <td>80</td>
+      </tr>
+    </table>
+    <hr />
+    <h3><u>Skills</u></h3>
+    <hr />
+    <ul>
+      <li>
+        Proficient in designing and constructing end-to-end frontend web apps
+        with modern UI and UX using tech like HTML, CSS, JavaScript, React,
+        Bootstrap.
+      </li>
+      <li>
+        Well versed with building scalable and performant backends using Node.js
+        and Express.js
+      </li>
+      <li>
+        Skilled in various deployment techniques, CI/CD as well as platformslike
+        Netlify, Vercel and Firebase forfront-end and GCP, AWS for back-end
+      </li>
+      <li>
+        Familiar with different paradigms and product lines of databases using
+        NoSQL such as MongoDB as well
+      </li>
+      <li>Experienced with informatics PowerCenterr and ETL Tools.</li>
+      <li>
+        Well acquainted with development toolslike VSCode,Git, GitHub, Copilot,
+        ChatGPT, npm, Linux, terminal and various IDEs
+      </li>
+      <li>Competent in Oracle E-Business Suite applications</li>
+    </ul>
+    <h3><u>Additional</u></h3>
+    <hr />
+    <ul>
+      <li>GDG Lucknow and Noida</li>
+      <li>The Institution of Engineers</li>
+      <li>Member, BBDNIIT Technical Group</li>
+    </ul>
+    <a href="Navbar.html">navbar</a>
+  </body>
+</html>
